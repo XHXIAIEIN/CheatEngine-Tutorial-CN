@@ -7,7 +7,7 @@ msgstr "Content-Type: text/plain; charset=UTF-8"
 
 #: unit1.rsfirststeptoohardbettergiveupnow
 msgid "First step too hard? Go to forum.cheatengine.org, then click on \"Tutorials\" for helpful guides!"
-msgstr "第一关就太难了？不会吧？\n！"
+msgstr "第一关就太难了？不会吧？！"
 
 #: unit1.rstutorial1
 msgid ""
