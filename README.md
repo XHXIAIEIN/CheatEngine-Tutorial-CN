@@ -1,6 +1,5 @@
 # cheatengine-tutorial-cn
 CheatEngine 目前教程汉化文本难以阅读，因此花时间重新翻译了一个版本。
-
 上次更新时间：Cheat engine 7.3 (2021/03/31)
 
 ## 如何安装
