@@ -16,8 +16,8 @@ msgid "Next"
 msgstr "下一步"
 
 #: tform1.caption
-msgid "Cheat Engine Tutorial v3.4"
-msgstr "Cheat Engine 教程 v3.4"
+msgid "Cheat Engine Tutorial v3.6"
+msgstr "Cheat Engine 教程 v3.6"
 
 #: tform1.edtpassword.hint
 msgid "Use this to go imeadiatly to the step you want to try"
