@@ -212,7 +212,7 @@ msgstr "100"
 
 #: tform5.label2.caption
 msgid "Ammo"
-msgstr "子弹"
+msgstr "子弹:"
 
 #: tform5.label3.caption
 msgctxt "tform5.label3.caption"
