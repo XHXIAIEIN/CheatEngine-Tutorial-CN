@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 #: XHXIAIEIN
 #: 271028354@qq.com
 #: 2022.01.02
-=======
-#| XHXIAIEIN
-#| 271028354@qq.com
-#| 2022.01.02
->>>>>>> 0a98b44ab2c0d119937a45fc1460e4e826640a69
 
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
