@@ -7,4 +7,4 @@ CheatEngine 目前教程汉化文本难以阅读，因此花时间重新翻译�
 
 
 ## 更多资料
-- https://github.com/cheat-engine/cheat-engine
+- [Cheat Engine](https://github.com/cheat-engine/cheat-engine)
